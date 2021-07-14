@@ -18,3 +18,11 @@ com o comando: sudo vue upgrade --next
 cd nome da pasta criada
 npm run serve
 
+Aula 05 - Criando componentes - voce vai conhecer um dos recursos mais utilizados do Vue - os componentes. Estas entidades podem ser reutulizadas em todo seu projeto e também podem manipular dados da aplicação para renderizar informações diferentes em cada situação.
+foi criado dentro da pasta components o arquivo PrimeiroComponente.vue
+
+Aula 06 - Dados em componentes (data) - voce vai aprender a manuser dados em componentes, que ficam a cargo da chave data. Este é também um recurso fundamental para o desenvolvimento de aplicações em Vue.
+
+Aula 07 - Entendendo os Lifecycle hooks - um recurso do Vue que permite interagir com a aplicação em diversos pontos do ciclo de vida dela, por exemplo: quando um componente é criado.
+foi criada a classe LifeCycle.vue dentro da pasta components
+
