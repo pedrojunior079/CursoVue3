@@ -26,3 +26,6 @@ Aula 06 - Dados em componentes (data) - voce vai aprender a manuser dados em com
 Aula 07 - Entendendo os Lifecycle hooks - um recurso do Vue que permite interagir com a aplicação em diversos pontos do ciclo de vida dela, por exemplo: quando um componente é criado.
 foi criada a classe LifeCycle.vue dentro da pasta components
 
+Aula 08 - Hierarquia de componentes - mais sobre componentes e como fazer reutilização e também sobre como é estruturado um leyout com o framework, criando uma hierarquia de componentes.
+
+
