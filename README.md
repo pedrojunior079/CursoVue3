@@ -28,4 +28,8 @@ foi criada a classe LifeCycle.vue dentro da pasta components
 
 Aula 08 - Hierarquia de componentes - mais sobre componentes e como fazer reutilização e também sobre como é estruturado um leyout com o framework, criando uma hierarquia de componentes.
 
+Aula 09 - Conhecendo as diretivas (v-if, v-show, v-for) - voce vai aprender diretivas, um recurso fundamental do Vue para isnerir condições lógicas na aplicação ou também imprimir uma lista de dados para a view do usuário, temos diversas diretivas no framework e vamos aprender algumas delas.
+
+Aula 10 - Atributos dinamicos - voce vai aprender como manipular os atributos das tags com Vue, ou seja, trocar imagens de forma dinamica ou alterar classes de elementos com o framework.
+
 

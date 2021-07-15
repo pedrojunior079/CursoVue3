@@ -1,0 +1,36 @@
+<template>
+    <div>
+        <p v-if="procurando_trabalhando">Procurando trabalhando no momento</p>
+        <p v-else> Estou em busca de novas oprotunidades!</p>
+        <p>Tenho conhecimento nas seguintes tecnologias:</p>
+        <ul>
+          <li>JavaScript</li>
+          <li>HTML5</li>
+          <li>CSS</li>
+          <li>Node.js</li>
+          <li>C++</li>
+          <li>Arduino</li>
+       </ul>
+       <p v-show="mostrar_email">Mande uma mensagem para: {{email}}</p>
+       <p>Para acessar meu portifólio <a v-bind:href="meu_link" target="_blank">basta clicar aqui</a></p>
+       <Picture/>
+    </div>
+</template>
+
+<script>
+import Picture from './Picture.vue'
+export default {
+  components: { 
+     Picture 
+   },
+   name: 'info',
+   data(){
+      return{
+         procurando_trabalhando: false,
+         mostrar_email: true,
+         email: 'pedrojunior@email.com',
+         meu_link: 'https://google.com.br'
+      }
+   } 
+}
+</script>
