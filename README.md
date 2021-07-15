@@ -32,4 +32,4 @@ Aula 09 - Conhecendo as diretivas (v-if, v-show, v-for) - voce vai aprender dire
 
 Aula 10 - Atributos dinamicos - voce vai aprender como manipular os atributos das tags com Vue, ou seja, trocar imagens de forma dinamica ou alterar classes de elementos com o framework.
 
-
+Aula 11 - Métodos - 
