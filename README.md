@@ -32,4 +32,11 @@ Aula 09 - Conhecendo as diretivas (v-if, v-show, v-for) - voce vai aprender dire
 
 Aula 10 - Atributos dinamicos - voce vai aprender como manipular os atributos das tags com Vue, ou seja, trocar imagens de forma dinamica ou alterar classes de elementos com o framework.
 
-Aula 11 - Métodos - 
+Aula 11 - Métodos - voce vai aprender a criar métodos com Vue para criar comportamentos no software baseado em ações do usuário, como um click ou envio de formulário
+
+Aula 12 - CSS Scoped e CSS global - voce vai aprender a como estilizar a sua aplicação em Vue, utilizando os dois principais recursos: CSS Scoped (para componentes) e CSS global (para toda a aplicação)
+
+
+
+
+
