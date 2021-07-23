@@ -36,7 +36,9 @@ Aula 11 - Métodos - voce vai aprender a criar métodos com Vue para criar compo
 
 Aula 12 - CSS Scoped e CSS global - voce vai aprender a como estilizar a sua aplicação em Vue, utilizando os dois principais recursos: CSS Scoped (para componentes) e CSS global (para toda a aplicação)
 
+Aula 13 - Renderização de listas (v-for) - voce vai aprender a redenrizar listas, ou seja imprimir arrays no HTML com Vue, vamos utilizswr um diretiva bem famosa: a v-for, que faz um loop em um array, que pode também ser um array de objetos.
 
+Aula 14 - Eventos (@submit e @click) - voce vai aprender sobre como utilizar eventos no Vue, quando vamos utilizar um formulario o evento é o @submit e o @click para quando precisamos colocar eventos clicaveis em elementos, estes são só alguns dos exemplos de eventos em Vue.js!
 
-
+Aula 15 - Múltiplos eventos - voce vai aprender sobre a criação de múltiplos eventos com Vue, uma forma de ativar dois ou mais métodos com apenas uam ação do usuário.
 
