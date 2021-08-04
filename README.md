@@ -42,3 +42,11 @@ Aula 14 - Eventos (@submit e @click) - voce vai aprender sobre como utilizar eve
 
 Aula 15 - Múltiplos eventos - voce vai aprender sobre a criação de múltiplos eventos com Vue, uma forma de ativar dois ou mais métodos com apenas uam ação do usuário.
 
+Aula 16 - Reutilização componentes - você vai aprender sobre um recurso muito interessante que é a reutilização de componentes, o Vue nos proporciona uma facilidade imensa para utilizar esta função.
+
+Aula 17 - Utilizando Props - você vai ver como utilizar as props no Vue, props é um recurso para passar dado do componente pai para o componente filho, podendo alterar como cada componente é executado de forma individual.
+
+Aula 18 - Emit - você vai aprender em Vue, como fazer a comunicação de um componente filho para o pai, podendo executar métodos e também realizar outras ações, vamos utilizar o $emit
+
+
+
