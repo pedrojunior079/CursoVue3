@@ -48,5 +48,14 @@ Aula 17 - Utilizando Props - você vai ver como utilizar as props no Vue, props 
 
 Aula 18 - Emit - você vai aprender em Vue, como fazer a comunicação de um componente filho para o pai, podendo executar métodos e também realizar outras ações, vamos utilizar o $emit
 
+Aula 19 - Criando o projeto do curso - vamos criar o projeto do curso de #Vue, onde você vai trabalhar todos os recursos já aprendidos e outros novos!
 
+$vue create .
 
+Aula 20 - Criando uma API com JSON server - vamos criar uma API com JSON server, um pacote do npm que simula uma API, depois vamos consumir este recurso com o nosso projeto de front-end com Vue
+
+npm install json-server
+
+e também foi configurado o json-server no package.json e criado a pasta db e dentro dela o arquivo db.json
+
+Aula 21 - Implementando o Vue Router - vamos implementar o Vue Router no nosso projeto de #Vue, para poder gerenciar as rotas da aplicação, a de pedido e também a de dashboard futuramente.
