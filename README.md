@@ -59,3 +59,5 @@ npm install json-server
 e também foi configurado o json-server no package.json e criado a pasta db e dentro dela o arquivo db.json
 
 Aula 21 - Implementando o Vue Router - vamos implementar o Vue Router no nosso projeto de #Vue, para poder gerenciar as rotas da aplicação, a de pedido e também a de dashboard futuramente.
+
+Aula 22 - Finalizando cabeçalho e rodapé do projeto - vamos finalizar o header e o footer do projeto, partes importantes do layout do nosso app, e podemos reutilizar os componentes nas views por meio do Vue
