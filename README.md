@@ -1,6 +1,9 @@
 # FrameworkVue
  Tutorial Vue 3
 
+ instalação atraves do CDN link de script:
+ <script src="https://unpkg.com/vue@next"></script>
+
  Vimos renderização declarativa atraves do DOM como exemplo usamos
  um contador.
 
@@ -17,6 +20,10 @@ https://vuejsbr-docs-next.netlify.app/guide/introduction.html#tratando-interacao
 https://vuejsbr-docs-next.netlify.app/guide/introduction.html#condicionais-e-repeticoes
 
 https://vuejsbr-docs-next.netlify.app/guide/introduction.html#composicao-com-componentes
+
+https://vuejsbr-docs-next.netlify.app/guide/computed.html#dados-computados
+
+https://vuejsbr-docs-next.netlify.app/guide/computed.html#observadores
 
 
 
