@@ -25,6 +25,13 @@ https://vuejsbr-docs-next.netlify.app/guide/computed.html#dados-computados
 
 https://vuejsbr-docs-next.netlify.app/guide/computed.html#observadores
 
+https://vuejsbr-docs-next.netlify.app/guide/list.html#mapeando-um-array-de-elementos-com-v-for
+
+https://vuejsbr-docs-next.netlify.app/guide/events.html#metodos-em-manipuladores
+
+
+
+
 
 
 
