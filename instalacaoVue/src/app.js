@@ -1,8 +1,18 @@
 const MyNameApp = {
     data(){
         return{
-            name: "PedroJr",
-            idade: 42
+            name: "",
+            input_name: ""
+        }
+    },
+    methods:{
+        siubmitForm(e){
+
+            e.preventDefault()
+
+            console.log(this.input_name);
+            
+            this.name = this.input_name; 
         }
     }
 }
