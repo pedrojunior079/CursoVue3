@@ -18,3 +18,5 @@ Curso de Vue 3: #05 - Criando componentes:
 você vai conhecer um dos recursos mais utilizados do Vue - os componentes. Estas entidades podem ser reutilizadas em todo o seu projeto e também podem manipular dados da aplicação para renderizar informações diferentes em cada situação.
 
 Curso de Vue 3: #06 - Dados em componentes (data)
+você vai aprender a manusear dados em componentes, que ficam a cargo da chave data. Este é também um recurso fundamental para o desenvolvimento de aplicações em Vue
+
