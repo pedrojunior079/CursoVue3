@@ -20,3 +20,5 @@ você vai conhecer um dos recursos mais utilizados do Vue - os componentes. Esta
 Curso de Vue 3: #06 - Dados em componentes (data)
 você vai aprender a manusear dados em componentes, que ficam a cargo da chave data. Este é também um recurso fundamental para o desenvolvimento de aplicações em Vue
 
+Curso de Vue 3: #07 - Entendo os Lyfes cycles Hooks(ciclo de vida):
+você vai aprender sobre os life cycle hooks, um recurso do vue que permite interagir com a aplicação em diversos pontos do ciclo de vida dela, por exemplo: quando um componente é criado.
