@@ -22,3 +22,8 @@ você vai aprender a manusear dados em componentes, que ficam a cargo da chave d
 
 Curso de Vue 3: #07 - Entendo os Lyfes cycles Hooks(ciclo de vida):
 você vai aprender sobre os life cycle hooks, um recurso do vue que permite interagir com a aplicação em diversos pontos do ciclo de vida dela, por exemplo: quando um componente é criado.
+
+Curso de Vue 3: #08 - Hierarquia de componentes:
+você vai aprender mais sobre os componentes do Vue, como fazer a reutilização e também sobre como é estruturado um layout com o framework, criando uma hierarquia de componentes.
+
+continua em 6:30 min
