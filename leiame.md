@@ -27,3 +27,9 @@ Curso de Vue 3: #08 - Hierarquia de componentes:
 você vai aprender mais sobre os componentes do Vue, como fazer a reutilização e também sobre como é estruturado um layout com o framework, criando uma hierarquia de componentes.
 
 continua em 6:30 min
+
+Curso de Vue 3: #09 - Conhecendo as diretivas(v-if, v-show, v-for)
+
+
+
+
