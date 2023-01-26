@@ -16,16 +16,24 @@
       <li>Banco de Dados</li>
     </ul>
     <p v-show="mostrarEmail">Mande uma mensagem para: {{ email }}</p>
+    <p>Para acessar meu portfólio <a v-bind:href="meuLink" target="_blank">basta clicar aqui</a></p>
+    <Picture/>
   </div>
 </template>
 <script>
+import Picture from './Picture.vue';
+
   export default{
     name: 'Info',
+    components:{
+      Picture
+    },
     data(){
       return{
         procuraDeEmprego: false,
         mostrarEmail: true,
-        email: 'pedrojr@email.com'
+        email: 'pedrojr@email.com',
+        meuLink: 'https://google.com.br'
       }
     }
   }
