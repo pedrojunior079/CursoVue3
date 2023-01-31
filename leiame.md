@@ -28,8 +28,14 @@ você vai aprender mais sobre os componentes do Vue, como fazer a reutilização
 
 continua em 6:30 min
 
-Curso de Vue 3: #09 - Conhecendo as diretivas(v-if, v-show, v-for)
+Curso de Vue 3: #09 - Conhecendo as diretivas(v-if, v-show, v-for):
+você vai aprender diretivas, um recurso fundamental do #Vue para inserir condições lógicas na aplicação ou também imprimir uma lista de dados para a view do usuário, temos diversas diretivas no framework.
 
+curso de Vue 3: #10 - Atributos dinamicos:
+você vai aprender sobre como manipular os atributos das tags com Vue, ou seja, trocar imagens de forma dinâmica ou alterar classes de elementos com o framework.
+
+Curso de Vue 3: #11 - Métodos:
+você vai aprender a criar métodos com #Vue, para criar comportamentos no software baseado em ações do usuário, como um click ou envio de formulário.
 
 
 

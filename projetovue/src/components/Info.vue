@@ -15,6 +15,9 @@
       <li>Laravel</li>
       <li>Banco de Dados</li>
     </ul>
+    <div>
+      <button @click="showEmail">{{ textoBotao }}</button>
+    </div>
     <p v-show="mostrarEmail">Mande uma mensagem para: {{ email }}</p>
     <p>Para acessar meu portfólio <a v-bind:href="meuLink" target="_blank">basta clicar aqui</a></p>
     <Picture/>
@@ -33,7 +36,18 @@ import Picture from './Picture.vue';
         procuraDeEmprego: false,
         mostrarEmail: true,
         email: 'pedrojr@email.com',
-        meuLink: 'https://google.com.br'
+        meuLink: 'https://google.com.br',
+        textoBotao: 'Mostrar e-mail'
+      }
+    },
+    methods:{
+      showEmail(){
+        this.mostrarEmail = !this.mostrarEmail
+        if(!this.mostrarEmail){
+          this.textoBotao = 'Mostrar e-mail'
+        }else{
+          this.textoBotao = 'Esconder e-mail'
+        }
       }
     }
   }
