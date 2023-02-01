@@ -37,5 +37,6 @@ você vai aprender sobre como manipular os atributos das tags com Vue, ou seja, 
 Curso de Vue 3: #11 - Métodos:
 você vai aprender a criar métodos com #Vue, para criar comportamentos no software baseado em ações do usuário, como um click ou envio de formulário.
 
-
+Curso de Vue 3: #12 - CSS Scoped e CSS Global:
+você vai aprender a como estilizar a sua aplicação em #Vue, utilizando os dois principais recursos: CSS Scoped (para componentes) e CSS global (para toda a aplicação)
 
