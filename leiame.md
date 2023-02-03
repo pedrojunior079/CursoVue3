@@ -40,3 +40,14 @@ você vai aprender a criar métodos com #Vue, para criar comportamentos no softw
 Curso de Vue 3: #12 - CSS Scoped e CSS Global:
 você vai aprender a como estilizar a sua aplicação em #Vue, utilizando os dois principais recursos: CSS Scoped (para componentes) e CSS global (para toda a aplicação)
 
+Curso de Vue3 3: #13 - Renderização de listas(v-for):
+você vai aprender a renderizar listas, ou seja, imprimir arrays no HTML com Vue, vamos utilizar uma diretiva bem famosa: a v-for, que faz um loop em um array, que pode também ser um array de objetos.
+
+
+
+
+
+
+
+
+

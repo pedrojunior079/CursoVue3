@@ -3,17 +3,16 @@
     
     <p v-if="procuraDeEmprego">Estou a procura de emprego no momento como programador.</p>
     <p v-else>Em busca de novos aprendizados na area!</p>
-    <p>Tenho conhecimento nas seguintes tecnologias:</p>
+    <p>Tenho conhecimento nas seguintes tecnologias para back-end:</p>
     <ul>
-      <li>HTML</li>
-      <li>CSS</li>
-      <li>Javascript</li>
-      <li>NodeJs</li>
-      <li>VueJs</li>
-      <li>ReactJs</li>
-      <li>Angular</li>
-      <li>Laravel</li>
-      <li>Banco de Dados</li>
+      <li v-for="(tecnologia, index) in backEndTecnologias" v-bind:key="index">
+        {{ tecnologia }}</li>
+    </ul>
+    <p>Tenho conhecimento nas segintes tecnologias front-end:</p>
+    <ul>
+      <li v-for="tecnologia in frontEndTecnologias" :key="tecnologia.id">
+         {{ tecnologia.linguagem }}
+      </li>
     </ul>
     <div>
       <button @click="showEmail">{{ textoBotao }}</button>
@@ -37,7 +36,13 @@ import Picture from './Picture.vue';
         mostrarEmail: true,
         email: 'pedrojr@email.com',
         meuLink: 'https://google.com.br',
-        textoBotao: 'Mostrar e-mail'
+        textoBotao: 'Mostrar e-mail',
+        backEndTecnologias: ['Spring boot java'],
+        frontEndTecnologias:[
+          {id: 1, linguagem: 'HTML5 e CSS3'},
+          {id: 2, linguagem: 'React'},
+          {id: 3, linguagem: 'Vue'}
+        ]
       }
     },
     methods:{
