@@ -43,7 +43,8 @@ você vai aprender a como estilizar a sua aplicação em #Vue, utilizando os doi
 Curso de Vue3 3: #13 - Renderização de listas(v-for):
 você vai aprender a renderizar listas, ou seja, imprimir arrays no HTML com Vue, vamos utilizar uma diretiva bem famosa: a v-for, que faz um loop em um array, que pode também ser um array de objetos.
 
-
+Curso de Vue 3: #14 - Eventos(@submit e @click):
+você vai aprender sobre como utilizar eventos no #Vue, quando vamos utilizar um formulário o evento é o @submit e o @click para quando precisamos colocar eventos clicáveis em elementos, estes são só alguns dos exemplos de eventos em Vue.js!
 
 
 
