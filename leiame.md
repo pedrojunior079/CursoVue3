@@ -46,7 +46,11 @@ você vai aprender a renderizar listas, ou seja, imprimir arrays no HTML com Vue
 Curso de Vue 3: #14 - Eventos(@submit e @click):
 você vai aprender sobre como utilizar eventos no #Vue, quando vamos utilizar um formulário o evento é o @submit e o @click para quando precisamos colocar eventos clicáveis em elementos, estes são só alguns dos exemplos de eventos em Vue.js!
 
+Curso de Vue 3: #15 - Múltiplos eventos:
+você vai aprender sobre a criação de múltiplos eventos com #Vue, uma forma de ativar dois ou mais métodos com apenas uma ação do usuário.
 
+Curso de Vue 3: #16 - Reutilização de componentes:
+ você vai aprender sobre um recurso muito interessante que é a reutilização de componentes, o Vue nos proporciona uma facilidade imensa para utilizar esta função.
 
 
 
