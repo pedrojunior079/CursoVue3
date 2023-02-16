@@ -1,6 +1,5 @@
 <template>
   <div>
-    
     <p v-if="procuraDeEmprego">Estou a procura de emprego no momento como programador.</p>
     <p v-else>Em busca de novos aprendizados na area!</p>
     <p>Tenho conhecimento nas seguintes tecnologias para back-end:</p>
@@ -30,11 +29,13 @@ import Picture from './Picture.vue';
     components:{
       Picture
     },
+    props:{
+       email: String,
+       procuraDeEmprego: Boolean
+    },
     data(){
       return{
-        procuraDeEmprego: false,
         mostrarEmail: true,
-        email: 'pedrojr@email.com',
         meuLink: 'https://google.com.br',
         textoBotao: 'Mostrar e-mail',
         backEndTecnologias: ['Spring boot java'],

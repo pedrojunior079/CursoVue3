@@ -50,9 +50,10 @@ Curso de Vue 3: #15 - Múltiplos eventos:
 você vai aprender sobre a criação de múltiplos eventos com #Vue, uma forma de ativar dois ou mais métodos com apenas uma ação do usuário.
 
 Curso de Vue 3: #16 - Reutilização de componentes:
- você vai aprender sobre um recurso muito interessante que é a reutilização de componentes, o  Vue nos proporciona uma facilidade imensa para utilizar esta função.
+você vai aprender sobre um recurso muito interessante que é a reutilização de componentes, o  Vue nos proporciona uma facilidade imensa para utilizar esta função.
 
-
+Curso de Vue 3: #17 - Utilizando props:
+você vai ver como utilizar as props no Vue, props é um recurso para passar dado do componente pai para o componente filho, podendo alterar como cada componente é executado de forma individual.
 
 
 
