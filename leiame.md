@@ -55,5 +55,13 @@ você vai aprender sobre um recurso muito interessante que é a reutilização d
 Curso de Vue 3: #17 - Utilizando props:
 você vai ver como utilizar as props no Vue, props é um recurso para passar dado do componente pai para o componente filho, podendo alterar como cada componente é executado de forma individual.
 
+Curso de Vue 3: #18 - Emit:
+você vai aprender em #Vue, como fazer a comunicação de um componente filho para o pai, podendo executar métodos e também realizar outras ações, vamos utilizar o $emit
+
+Curso de Vue 3: #19 - Criando o projeto do curso:
+vamos criar o projeto do curso de Vue, onde você vai trabalhar todos os recursos já aprendidos e outros novos!
+
+vue create makeyourburger
+
 
 
