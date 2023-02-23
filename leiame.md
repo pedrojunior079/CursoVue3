@@ -63,5 +63,10 @@ vamos criar o projeto do curso de Vue, onde você vai trabalhar todos os recurso
 
 vue create makeyourburger
 
+Curso de Vue 3: #20 - Criando uma API com JSON server:
+vamos criar uma #API com JSON server, um pacote do npm que simula uma API, depois vamos consumir este recurso com o nosso projeto de front-end com Vue
+
+
+
 
 
