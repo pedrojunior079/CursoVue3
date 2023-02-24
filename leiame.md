@@ -66,6 +66,8 @@ vue create makeyourburger
 Curso de Vue 3: #20 - Criando uma API com JSON server:
 vamos criar uma #API com JSON server, um pacote do npm que simula uma API, depois vamos consumir este recurso com o nosso projeto de front-end com Vue
 
+Curso de Vue 3: #21 - Implementando o Vue Router:
+vamos implementar o Vue Router no nosso projeto de #Vue, para poder gerenciar as rotas da aplicação, a de pedido e também a de dashboard futuramente.
 
 
 
