@@ -69,6 +69,8 @@ vamos criar uma #API com JSON server, um pacote do npm que simula uma API, depoi
 Curso de Vue 3: #21 - Implementando o Vue Router:
 vamos implementar o Vue Router no nosso projeto de #Vue, para poder gerenciar as rotas da aplicação, a de pedido e também a de dashboard futuramente.
 
+Curso de Vue 3: #22 - Finalizando cabeçado e rodapé do projeto:
+vamos finalizar o header e o footer do projeto, partes importantes do layout do nosso app, e podemos reutilizar os componentes nas views por meio do Vue
 
 
 
