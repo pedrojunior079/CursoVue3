@@ -72,5 +72,6 @@ vamos implementar o Vue Router no nosso projeto de #Vue, para poder gerenciar as
 Curso de Vue 3: #22 - Finalizando cabeçado e rodapé do projeto:
 vamos finalizar o header e o footer do projeto, partes importantes do layout do nosso app, e podemos reutilizar os componentes nas views por meio do Vue
 
-
+Curso de Vue 3: #23 - Criando banner da aplicação:
+vamos criar o banner principal da nossa aplicação com Vue, é uma parte estática mas de suma importância, nem sempre estamos lidando com dados dinâmicos, as vezes temos componentes apenas para atender ao layout do app, como este nosso banner.
 
