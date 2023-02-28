@@ -75,3 +75,11 @@ vamos finalizar o header e o footer do projeto, partes importantes do layout do 
 Curso de Vue 3: #23 - Criando banner da aplicação:
 vamos criar o banner principal da nossa aplicação com Vue, é uma parte estática mas de suma importância, nem sempre estamos lidando com dados dinâmicos, as vezes temos componentes apenas para atender ao layout do app, como este nosso banner.
 
+Curso de Vue 3: #24 - Criando formulário de cadastro:
+vamos criar um formulário de cadastro em nosso app com Vue, ele vai servir para o usuário realizar o seu pedido no sistema, posteriormente vamos exibir estes pedidos em uma dashboard.
+
+
+
+
+
+
