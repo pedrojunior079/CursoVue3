@@ -78,7 +78,7 @@ vamos criar o banner principal da nossa aplicação com Vue, é uma parte estát
 Curso de Vue 3: #24 - Criando formulário de cadastro:
 vamos criar um formulário de cadastro em nosso app com Vue, ele vai servir para o usuário realizar o seu pedido no sistema, posteriormente vamos exibir estes pedidos em uma dashboard.
 
-
+continua na aula 26
 
 
 
