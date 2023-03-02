@@ -78,7 +78,18 @@ vamos criar o banner principal da nossa aplicação com Vue, é uma parte estát
 Curso de Vue 3: #24 - Criando formulário de cadastro:
 vamos criar um formulário de cadastro em nosso app com Vue, ele vai servir para o usuário realizar o seu pedido no sistema, posteriormente vamos exibir estes pedidos em uma dashboard.
 
-continua na aula 26
+Curso de Vue 3: #25 - Resgatando dados do banco e inserindo no formulario:
+voce vai aprender a como resgatar os dados do banco via API utilziando o fatch da linguagem JavaScript. Com os dados resgatados vamos preencher o fromulario do app em Vue, para que haja dados e po usuario possa formar seu pedido.
+
+Curso de Vue 3: #26 - Inserindo dados no banco:
+você inserir dados da aplicação Vue no banco, ou seja, vamos receber os dados do formulário e enviar via fetch API para o nosso servidor, que vai salvá-los no nosso banco.
+
+Curso de Vue 3: #27 - Criando componente de mensagens do sistema:
+vamos criar um componente de mensagem, que será reaproveitado em todo nosso app de Vue, para informar o usuário de suas ações, dando feedback quando necessário. Por exemplo: quando algum registro é adicionado ou removido do banco de dados.
+
+Curso de Vue 3: #28 - Criando a tela de pedidos (Dashboard):
+vamos criar a nossa dashboard com #Vue, nesta tela vamos gerenciar os pedidos realizados pela tela inicial, ou seja, vamos poder atualizar os status ou remover o pedido, dependendo da necessidade do operador do sistema.
+
 
 
 
