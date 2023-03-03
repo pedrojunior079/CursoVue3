@@ -104,5 +104,7 @@ Curso de Vue 3: #32 - Atualização de pedidos:
 vamso realizar a ação de UPDATE para atualizar os itens que estão cadastrados no 
 sistema, conseguindo assim atualizar o seu status de produção.
 
-Curso de Vue 3: #33 - Mensagens nas atualizações e remoções de pedido
+Curso de Vue 3: #33 - Mensagens nas atualizações e remoções de pedido:
+vamos adicionar o componente de mensagem tamnbém para atualização e remoção de pedidos,
+com isso chegamos a fim do projeto em Vue.
 
