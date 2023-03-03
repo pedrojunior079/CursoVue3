@@ -93,5 +93,7 @@ vamos criar a nossa dashboard com #Vue, nesta tela vamos gerenciar os pedidos re
 Curso de Vue 3: #29 - Resgatando pedido de dados:
 vamos resgatar pedidos feitos usuarios do nosso banco de dados e expor eles na tela de deshboard, realizando mais uma operação de GRUD em nosso App com Vue 
 
-
+Curso de Vue3 #30 - Recebendo os status dos pedidos
+vamos receber via GET os status dos pedido, que estão nos nossos bancos de dados.
+Desta maneira será possivel visualizar em qual situação o pedido se encontra, deixando mais completo ainda o projeto em Vue
 
