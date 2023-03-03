@@ -110,6 +110,18 @@
       ],
       "status": "Solicitado",
       "id": 3
+    },
+    {
+      "nome": "Carla",
+      "carne": "Veggie burger",
+      "pao": "Parmesão e Orégano",
+      "opcionais": [
+        "Tomate",
+        "Pepino",
+        "Cebola roxa"
+      ],
+      "status": "Solicitado",
+      "id": 4
     }
   ]
 }

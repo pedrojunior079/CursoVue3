@@ -90,7 +90,8 @@ vamos criar um componente de mensagem, que será reaproveitado em todo nosso app
 Curso de Vue 3: #28 - Criando a tela de pedidos (Dashboard):
 vamos criar a nossa dashboard com #Vue, nesta tela vamos gerenciar os pedidos realizados pela tela inicial, ou seja, vamos poder atualizar os status ou remover o pedido, dependendo da necessidade do operador do sistema.
 
-
+Curso de Vue 3: #29 - Resgatando pedido de dados:
+vamos resgatar pedidos feitos usuarios do nosso banco de dados e expor eles na tela de deshboard, realizando mais uma operação de GRUD em nosso App com Vue 
 
 
 

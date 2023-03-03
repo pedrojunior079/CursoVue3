@@ -12,7 +12,7 @@
        <select name="pao" id="pao" v-model="pao">
          <option value="">Selecione o seu pão</option>
          <option v-for="pao in paes" :key="pao.id" :value="pao.tipo">
-          {{ pao.tipo }}
+          {{ pao.tipo }} 
         </option>
       </select>
     </div>
