@@ -97,3 +97,12 @@ Curso de Vue3 #30 - Recebendo os status dos pedidos
 vamos receber via GET os status dos pedido, que estão nos nossos bancos de dados.
 Desta maneira será possivel visualizar em qual situação o pedido se encontra, deixando mais completo ainda o projeto em Vue
 
+Curso de Vue3 #31 - Removendo pedidos do sistema:
+vamso aprender a função de remover pedidos com Vue, utilizando um request de DELETE e nossa API para efetivar a remoção de um pedido, baseado no id do mesmo.
+
+Curso de Vue 3: #32 - Atualização de pedidos:
+vamso realizar a ação de UPDATE para atualizar os itens que estão cadastrados no 
+sistema, conseguindo assim atualizar o seu status de produção.
+
+Curso de Vue 3: #33 - Mensagens nas atualizações e remoções de pedido
+

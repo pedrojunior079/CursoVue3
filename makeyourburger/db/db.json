@@ -97,7 +97,7 @@
         "Salame",
         "Tomate"
       ],
-      "status": "Solicitado",
+      "status": "Em produção",
       "id": 2
     },
     {
@@ -109,8 +109,27 @@
         "Pepino",
         "Cebola roxa"
       ],
-      "status": "Solicitado",
+      "status": "Em produção",
       "id": 4
+    },
+    {
+      "nome": "Rodrigo",
+      "carne": "Maminha",
+      "pao": "Italiano Branco",
+      "opcionais": [
+        "Bacon",
+        "Cheddar"
+      ],
+      "status": "Finalizado",
+      "id": 5
+    },
+    {
+      "nome": "Juliana",
+      "carne": "Picanha",
+      "pao": "Parmesão e Orégano",
+      "opcionais": [],
+      "status": "Finalizado",
+      "id": 6
     }
   ]
 }
